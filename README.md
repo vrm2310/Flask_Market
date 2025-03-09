@@ -6,4 +6,4 @@ Creating this enabled me to understand how to create an app with backend deploym
 
 To run the code, simply type python run.py in the directory the code opens in.
 
-https://github.com/user-attachments/assets/0bb68a0e-1cc0-4338-9216-a82217104dc3
+![Home page](https://github.com/user-attachments/assets/0bb68a0e-1cc0-4338-9216-a82217104dc3)
